@@ -25,7 +25,7 @@ Al inicio podrás encontrar los archivos [image.png], [PanCamp.py], [productos.j
 * Archivo [image.png]:imagen utilizada en el readme.
 * Archivo [PanCamp.py]:Consta del código principal del proyecto.
 * Archivo [productos.json]:Consta de los recursos necesarios para desarrollar el proyecto.
-* Archivo [README.md]:Documentación de la estrustura del código principal.
+* Archivo [README.md]:Documentación de la estructura del código principal.
 
 ## Diseño
 
